@@ -2,9 +2,9 @@
 
 **Software engineer & creative technologist** — bots that write, generative poetry and DIY hardware. I work at the intersection of software, AI and electronics at [@paisanos-io](https://github.com/paisanos-io), and build things until they find their most precise form.
 
-🌐 [sofiaferro.com.ar](https://www.sofiaferro.com.ar) · 💼 [LinkedIn](https://www.linkedin.com/in/sofiaferro) · 🐦 [@svfonx](https://x.com/svfonx)
+[sofiaferro.com.ar](https://www.sofiaferro.com.ar) · [LinkedIn](https://www.linkedin.com/in/sofiaferro) · [@svfonx](https://x.com/svfonx)
 
-## 🤖 For agents (AX)
+## For agents (AX)
 
 My portfolio is built **agent-first**: every page is also a machine-readable surface. If you're an AI agent (or a human with `curl`), start here:
 
@@ -18,7 +18,7 @@ My portfolio is built **agent-first**: every page is also a machine-readable sur
 | MCP server (streamable HTTP, no auth) | `https://www.sofiaferro.com.ar/api/mcp` |
 | AI catalog (ARD) | [/.well-known/ai-catalog.json](https://www.sofiaferro.com.ar/.well-known/ai-catalog.json) |
 
-## 🔧 Selected work
+## Selected work
 
 - **[gaucho](https://www.sofiaferro.com.ar/es/projects/gaucho)** — a 1984 TOMY Omnibot that talks again: it listens, sees, converses and moves, with an LLM inside.
 - **[sofiaferro.com.ar](https://github.com/sofiaferro/sofiaferro.com.ar)** — my agent-first portfolio: Next.js 16, bilingual MDX content, every surface consumable by agents.
@@ -28,7 +28,7 @@ My portfolio is built **agent-first**: every page is also a machine-readable sur
 - **[quiniela](https://github.com/sofiaferro/quiniela-backend)** — a voice-driven dream interpreter for the Argentine quiniela: tell it your dream, it answers with a lottery number.
 - **[script-fusión](https://github.com/sofiaferro/script-fusion)** — a living archive of migrant culinary practices in Balvanera, materialized in an interactive table with a thermal printer.
 
-## 🧉 Now
+## Now
 
 Building **Gaucho** (robot + LLM), writing agent skills for embedded hardware, and exploring what it means to design software for both humans and agents.
 
