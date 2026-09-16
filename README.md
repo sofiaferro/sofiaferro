@@ -1,6 +1,6 @@
 # Hi, I'm Sofi 👋
 
-**Software engineer & creative technologist** — bots that write, generative poetry and DIY hardware. I work at the intersection of software, AI and electronics at [@paisanos-io](https://github.com/paisanos-io), and build things until they find their most precise form.
+**Product Engineer & Creative Technologist** — bots that write, generative poetry and DIY hardware. I work at the intersection of software, AI and electronics at [@paisanos-io](https://github.com/paisanos-io), and build things until they find their most precise form.
 
 [sofiaferro.com.ar](https://www.sofiaferro.com.ar) · [LinkedIn](https://www.linkedin.com/in/sofiaferro) · [@svfonx](https://x.com/svfonx)
 
